@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋
 
 <!--Banner-->
 ![Kiran1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
@@ -9,20 +9,26 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Soy Carolina! 
+*Técnico en QA | QA Automation Jr | Software Testing | API Testing | Selenium | Postman | SQL | Jira | Scrum*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">Me enfoco en garantizar la calidad del software tanto a nivel funcional como en la experiencia del usuario. Combino habilidades de testing con conocimientos en UX/UI, lo que me permite identificar no solo errores técnicos, sino también oportunidades de mejora en la interacción del usuario. </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+
+-🛠️ Habilidades Técnicas :)
+- 🌱 Pruebas funcionales.
+- 🏙 Pruebas de regresión.
+- 💁‍♂️ Smoke testing.
+- ✍ Diseño de casos de prueba (ISTQB).
+
+-🛠️ Herramientas :)
+- Postman.
+- JIRA.
+- TestRail / HP ALM.
+- Selenium (básico).
+
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -36,7 +42,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,,postman,linux&perline=10"  />
 </p>
 <br />
 
