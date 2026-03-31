@@ -7,7 +7,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://github.com/Carolina-Sichaca/Carolina-Sichaca/blob/main/assets/Logo-100x100-quality%201.png">
 </div>
 
 <!--Header Name-->
