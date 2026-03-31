@@ -40,11 +40,11 @@
       <h3>🧪 Testing Aplicación web </h3>
       <p>Proyecto de pruebas funcionales para Aplicación web orientada a gestión de usuarios y funcionalidades básicas. Incluye casos de prueba, Reporte de bugs con Jira y seguimiento a ciclo de vida de defectos, Pruebas de regresión y validación de APIs usando Postman..</p>
       <a href="https://github.com/Carolina-Sichaca/qa-testing-ecommerce">
-        <img src="https://github.com/Carolina-Sichaca/Carolina-Sichaca/blob/main/assets/Testing%20Aplicaci%C3%B3n%20web.png">
+        <img src="https://img.shields.io/badge/Ver%20Proyecto-ff4da6?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
     <td width="50%">
-      <img src="https://github.com/Carolina-Sichaca/Carolina-Sichaca/blob/main/assets/ecommerce.png?raw=true" width="100%">
+      <img src="https://github.com/Carolina-Sichaca/Carolina-Sichaca/blob/main/assets/Testing%20Aplicaci%C3%B3n%20web.png?raw=true" width="100%">
     </td>
   </tr>
 </table>
@@ -56,11 +56,11 @@
       <p>Proyecto enfocado en validar el endpoint encargado de agregar productos a un kit mediante API REST. Se realizaron pruebas funcionales, negativas, clases de equivalencia y valores límite para verificar el correcto funcionamiento del sistema y el cumplimiento de las reglas de negocio.
 </p>
       <a href="https://github.com/Carolina-Sichaca/dvwa-security-testing">
-        <img src="https://github.com/Carolina-Sichaca/Carolina-Sichaca/blob/main/assets/QA%20Testing%20API.png">
+        <img src="https://img.shields.io/badge/Ver%20Proyecto-ff4da6?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
     <td width="50%">
-      <img src="https://github.com/Carolina-Sichaca/Carolina-Sichaca/blob/main/assets/dvwa.png?raw=true" width="100%">
+      <img src="https://github.com/Carolina-Sichaca/Carolina-Sichaca/blob/main/assets/QA%20Testing%20API.png?raw=true" width="100%">
     </td>
   </tr>
 </table>
