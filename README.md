@@ -1,7 +1,9 @@
 ## Hola 👋
 
 <!--Banner-->
-![Kiran1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
+<p align="center">
+  <img src="https://github.com/Carolina-Sichaca/Carolina-Sichaca/blob/main/assets/perfil.png?raw=true" width="180">
+</p>
 
 <!--Night Owl image-->
 <div>
