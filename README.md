@@ -2,7 +2,7 @@
 
 <!--Banner-->
 <p align="center">
-  <img src="https://github.com/Carolina-Sichaca/Carolina-Sichaca/blob/main/assets/qa%20Testing_01.png?raw=true" width="960">
+  <img src="https://github.com/Carolina-Sichaca/Carolina-Sichaca/blob/main/assets/qa%20Testing.png?raw=true" width="960">
 </p>
 
 <!--Night Owl image-->
